@@ -15,6 +15,6 @@
    flashes before the result is showed.
 
 ## Installation
-The easiest is to open the sketch file (.ino) in Arduino IDE and flash your card from there.
+The easiest way to program your board is to open the sketch file (.ino) in Arduino IDE and flash your card from there. If you want to adjust parameters in the game the important ones are collected at the top of the file as definitions.
 
 Have fun!
