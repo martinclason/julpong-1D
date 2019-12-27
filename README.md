@@ -3,7 +3,7 @@
 ![Image of the game](game.jpg)
 
 ## Rules:
- - Hit your button while your light is lit, if you're too early or to late you loose and the other person wins.
+ - Hit your button while your light is lit, if you're too early or to late you lose and the other person wins.
  - The side that lost will serve the ball next round.
 ## Functions:
  - The lamps on the winning side will light up after a round ends.
