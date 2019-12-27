@@ -1,7 +1,7 @@
 /* 1D Pong - an infinitely narrow pong with an infinite number of bounces.
  * 
  * Rules:
- *  - Hit your button while your light is lit, if you're too early or to late you loose and the other person wins.
+ *  - Hit your button while your light is lit, if you're too early or to late you lose and the other person wins.
  *  - The side that lost will serve the ball next round.
  * 
  * Functions:
